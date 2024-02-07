@@ -31,3 +31,10 @@ D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Api\ob
 D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Api\obj\Debug\net8.0\BookingService.Api.pdb
 D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Api\obj\Debug\net8.0\BookingService.Api.genruntimeconfig.cache
 D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Api\obj\Debug\net8.0\ref\BookingService.Api.dll
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Api\bin\Debug\net8.0\BookingService.Application.dll
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Api\bin\Debug\net8.0\BookingService.Contracts.dll
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Api\bin\Debug\net8.0\BookingService.Domain.dll
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Api\bin\Debug\net8.0\BookingService.Application.pdb
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Api\bin\Debug\net8.0\BookingService.Contracts.pdb
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Api\bin\Debug\net8.0\BookingService.Domain.pdb
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Api\obj\Debug\net8.0\BookingService.Api.sourcelink.json

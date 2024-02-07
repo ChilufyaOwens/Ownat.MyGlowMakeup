@@ -1,0 +1,16 @@
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\bin\Debug\net8.0\BookingService.Application.deps.json
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\bin\Debug\net8.0\BookingService.Application.dll
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\bin\Debug\net8.0\BookingService.Application.pdb
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\bin\Debug\net8.0\BookingService.Domain.dll
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\bin\Debug\net8.0\BookingService.Domain.pdb
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\obj\Debug\net8.0\BookingService.Application.csproj.AssemblyReference.cache
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\obj\Debug\net8.0\BookingService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\obj\Debug\net8.0\BookingService.Application.AssemblyInfoInputs.cache
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\obj\Debug\net8.0\BookingService.Application.AssemblyInfo.cs
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\obj\Debug\net8.0\BookingService.Application.csproj.CoreCompileInputs.cache
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\obj\Debug\net8.0\BookingService.Application.sourcelink.json
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\obj\Debug\net8.0\BookingService.Application.csproj.CopyComplete
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\obj\Debug\net8.0\BookingService.Application.dll
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\obj\Debug\net8.0\refint\BookingService.Application.dll
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\obj\Debug\net8.0\BookingService.Application.pdb
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Application\obj\Debug\net8.0\ref\BookingService.Application.dll

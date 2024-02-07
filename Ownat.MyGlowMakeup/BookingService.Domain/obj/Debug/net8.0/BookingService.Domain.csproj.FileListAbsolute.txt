@@ -1,0 +1,12 @@
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\bin\Debug\net8.0\BookingService.Domain.deps.json
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\bin\Debug\net8.0\BookingService.Domain.dll
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\bin\Debug\net8.0\BookingService.Domain.pdb
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\obj\Debug\net8.0\BookingService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\obj\Debug\net8.0\BookingService.Domain.AssemblyInfoInputs.cache
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\obj\Debug\net8.0\BookingService.Domain.AssemblyInfo.cs
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\obj\Debug\net8.0\BookingService.Domain.csproj.CoreCompileInputs.cache
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\obj\Debug\net8.0\BookingService.Domain.sourcelink.json
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\obj\Debug\net8.0\BookingService.Domain.dll
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\obj\Debug\net8.0\refint\BookingService.Domain.dll
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\obj\Debug\net8.0\BookingService.Domain.pdb
+D:\Development\Ownat\Ownat.MyGlowMakeup\Ownat.MyGlowMakeup\BookingService.Domain\obj\Debug\net8.0\ref\BookingService.Domain.dll
